@@ -10,5 +10,5 @@
   "?deadlock-beltboxes-loaders >= 2.4.2", "?AdvancedBelts >= 2.0.2",
   "?exotic-industries >= 0.4.1", "?exotic-industries-loaders >= 0.0.3", "!bobslogistics"],
   "description": "Adds configuration for Belts, and Pipes, along with some other QOL", 
-  "license": "MIT"
+  "license": "The Unlicense"
 }
