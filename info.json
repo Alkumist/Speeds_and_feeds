@@ -1,0 +1,14 @@
+{
+  "name": "Speeds_and_feeds",
+  "version": "1.3.0",
+  "factorio_version": "1.1",
+  "title": "Speeds and feeds",
+  "author": "Neko14789, Alkumist",
+  "dependencies": ["base >= 1.1", "?More_Underneathies >= 1.2.0",
+  "?space-exploration >= 0.6.1", "?Krastorio2 >= 1.3.19",
+  "?aai-loaders >= 0.1.4", "?miniloader >= 1.15.6",
+  "?deadlock-beltboxes-loaders >= 2.4.2", "?AdvancedBelts >= 2.0.2",
+  "?exotic-industries >= 0.4.1", "?exotic-industries-loaders >= 0.0.3", "!bobslogistics"],
+  "description": "Adds configuration for Belts, and Pipes, along with some other QOL", 
+  "license": "MIT"
+}
